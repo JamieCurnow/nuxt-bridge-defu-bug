@@ -2,6 +2,10 @@
 
 This repo reproduces a bug where nuxt bridge and vite cannot find named export 'defu' in the browser in dev mode.
 
+This repo is linked to the issue here:
+
+https://github.com/nuxt/bridge/issues/329
+
 ## Reproduction:
 
 Clone this repo then
